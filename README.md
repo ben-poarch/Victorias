@@ -1,9 +1,6 @@
 # Victorias
-Cross-Platform Application for a salon
+Cross-Platform Application for a salon in Bristol
+Allows users to receive promotional notifications and access booking system via app.
 
 TODO:
-add icon bar at bottom
-find/contact us page
-centre logo
-notifs
-fix book now button
+api key for maps (https://docs.expo.dev/versions/latest/sdk/map-view/)
